@@ -63,6 +63,13 @@ A custom PCB was designed using KiCad with the following considerations:
 * Keep-out zone for ESP32 antenna
 * Decoupling capacitors near power pins
 * Separate connectors for GPS, UART, motors, and servo
+<img width="1093" height="680" alt="Screenshot 2026-04-09 120329" src="https://github.com/user-attachments/assets/ecbd9885-251d-40df-ba64-7fa490809403" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 130713" src="https://github.com/user-attachments/assets/804cd295-aa10-4b69-8888-83427fede998" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 130849" src="https://github.com/user-attachments/assets/4275a5ca-4664-4c7c-95aa-99ee244deacd" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 150811" src="https://github.com/user-attachments/assets/71833612-3d9d-43ef-9ddc-b41cfd09bf3e" />
+<img width="729" height="726" alt="Screenshot 2026-04-09 152431" src="https://github.com/user-attachments/assets/a80b8d06-f489-423f-a3cd-99c6b375158d" />
+<img width="684" height="574" alt="Screenshot 2026-04-09 152606" src="https://github.com/user-attachments/assets/44d3ba45-a9e3-45a4-8ba6-28bbdb499d5c" />
+
 
 ---
 
@@ -96,6 +103,11 @@ The system was tested using Serial Monitor:
 * GPS data updated every 5 seconds
 * Simulated authentication process
 * Safety stop triggered on connection loss
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 182722" src="https://github.com/user-attachments/assets/558810be-2c2a-49c4-b332-7c3522b2c343" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 200231" src="https://github.com/user-attachments/assets/126740f2-352f-418e-a688-f50483abeb5b" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 202225" src="https://github.com/user-attachments/assets/12a87dbb-25a7-4ef5-bc41-4e0f316817f5" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 202836" src="https://github.com/user-attachments/assets/f1fb4b99-dac8-4dc3-8df7-959bee923972" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-08 202846" src="https://github.com/user-attachments/assets/8ad0ed98-b6c2-47e8-b4e3-d2b7e556b871" />
 
 ---
 
