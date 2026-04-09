@@ -9,7 +9,7 @@ The robot operates using differential drive motors, supports remote monitoring v
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objective of this project is to design a complete embedded system including:
 
@@ -22,7 +22,7 @@ The main objective of this project is to design a complete embedded system inclu
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 The system consists of the following major blocks:
 
