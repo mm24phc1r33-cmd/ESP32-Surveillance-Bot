@@ -71,6 +71,7 @@ A custom PCB was designed using KiCad with the following considerations:
 <img width="684" height="574" alt="Screenshot 2026-04-09 152606" src="https://github.com/user-attachments/assets/44d3ba45-a9e3-45a4-8ba6-28bbdb499d5c" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5c138ed-3a9c-46e6-a313-f41117b33504" />
 <img width="1145" height="903" alt="Screenshot 2026-04-09 181805" src="https://github.com/user-attachments/assets/18054583-90c2-4a6f-b829-75576ee0000d" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 182627" src="https://github.com/user-attachments/assets/1c2b147a-2b4f-461e-8f92-f3d677e85eda" />
 
 
 
