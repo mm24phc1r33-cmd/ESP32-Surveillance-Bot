@@ -1,0 +1,332 @@
+Info: Processing symbol '10uf1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol '10uf2:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'J5:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J2:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J6:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U1:RF_Module:ESP32-WROOM-32'.
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'U2:Package_SO:SSOP-24_5.3x8.2mm_P0.65mm'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Updated 10uf1 sheetname to '/'.
+Updated 10uf1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated 10uf1 footprint filters to 'CP_*'.
+Add net Net-(U3-VI).
+Connected 10uf1 pin 1 to Net-(U3-VI).
+Add net GND.
+Connected 10uf1 pin 2 to GND.
+Added 10uf2 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to 10uf2.
+Changed 10uf2 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to C_Polarized.
+Updated 10uf2 symbol association from  to /33e06e88-0cf3-4368-8c84-c55c1e8e6896.
+Updated 10uf2 fields.
+Updated 10uf2 sheetname to '/'.
+Updated 10uf2 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated 10uf2 footprint filters to 'CP_*'.
+Connected 10uf2 pin 1 to GND.
+Connected 10uf2 pin 2 to GND.
+Added D1 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm to LED.
+Updated D1 symbol association from  to /954b56bb-7c31-4aa8-8bc9-1cabd952a849.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D1 pin 1 to GND.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04.
+Updated J1 symbol association from  to /6ac747c1-9858-4f24-b743-6afa4b52800f.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net /TX.
+Connected J1 pin 3 to /TX.
+Connected J1 pin 2 to GND.
+Add net /RX.
+Connected J1 pin 4 to /RX.
+Connected J1 pin 1 to GND.
+Added J2 (footprint 'TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm').
+Changed REF** reference designator to J2.
+Changed J2 value from TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm to Conn_01x02_Pin.
+Updated J2 symbol association from  to /746d2539-5058-4c5e-a1bf-c6b8f188c609.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net unconnected-(J2-Pin_1-Pad1).
+Connected J2 pin 1 to unconnected-(J2-Pin_1-Pad1).
+Add net unconnected-(J2-Pin_2-Pad2).
+Connected J2 pin 2 to unconnected-(J2-Pin_2-Pad2).
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03.
+Updated J3 symbol association from  to /e93f2d40-ee55-4cd0-bec0-fbfaba7d038c.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J3-Pin_1).
+Connected J3 pin 1 to Net-(J3-Pin_1).
+Connected J3 pin 3 to GND.
+Add net +5V.
+Connected J3 pin 2 to +5V.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04.
+Updated J4 symbol association from  to /42c72bfb-2ce2-4fb4-82f1-f4a00923f91e.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Add net +3.3V.
+Connected J4 pin 1 to +3.3V.
+Connected J4 pin 2 to /TX.
+Connected J4 pin 4 to GND.
+Connected J4 pin 3 to /RX.
+Added J5 (footprint 'TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm').
+Changed REF** reference designator to J5.
+Changed J5 value from TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm to Conn_01x02.
+Updated J5 symbol association from  to /703419bc-a145-4177-b98b-f61e915d4757.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J5-Pin_2).
+Connected J5 pin 2 to Net-(J5-Pin_2).
+Add net Net-(J5-Pin_1).
+Connected J5 pin 1 to Net-(J5-Pin_1).
+Added J6 (footprint 'TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm').
+Changed REF** reference designator to J6.
+Changed J6 value from TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm to Conn_01x02.
+Updated J6 symbol association from  to /322be48f-4698-40b0-b947-3d2352131e8c.
+Updated J6 fields.
+Updated J6 sheetname to '/'.
+Updated J6 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated J6 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J6-Pin_1).
+Connected J6 pin 1 to Net-(J6-Pin_1).
+Add net Net-(J6-Pin_2).
+Connected J6 pin 2 to Net-(J6-Pin_2).
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 220.
+Updated R1 symbol association from  to /f2b64d9c-b4ef-45a0-bc0d-412f0f995bf4.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net Net-(U1-IO2).
+Connected R1 pin 1 to Net-(U1-IO2).
+Connected R1 pin 2 to Net-(D1-A).
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to R.
+Updated R2 symbol association from  to /34751de8-8faa-49bf-ae37-6234ea9b75d5.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net Net-(U1-EN).
+Connected R2 pin 1 to Net-(U1-EN).
+Connected R2 pin 2 to +3.3V.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to R.
+Updated R3 symbol association from  to /a0ee0146-ecb0-43ec-b3e5-ae58b06ed537.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to +3.3V.
+Add net Net-(U1-IO0).
+Connected R3 pin 1 to Net-(U1-IO0).
+Added SW1 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_PUSH_6mm to SW_Push.
+Updated SW1 symbol association from  to /df13f463-af27-497e-a8cf-45168e237658.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Connected SW1 pin 2 to Net-(U1-IO0).
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 2 to Net-(U1-IO0).
+Added 10uf1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Added SW2 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_PUSH_6mm to SW_Push.
+Updated SW2 symbol association from  to /f39c739d-bbd5-4932-8d8c-2f6b47df64b0.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Connected SW2 pin 2 to Net-(U1-EN).
+Connected SW2 pin 1 to GND.
+Connected SW2 pin 1 to GND.
+Connected SW2 pin 2 to Net-(U1-EN).
+Changed REF** reference designator to 10uf1.
+Added U1 (footprint 'RF_Module:ESP32-WROOM-32').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /9ff0daa2-6bda-41ab-a2fa-ac4264a93477.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated U1 footprint filters to 'ESP32?WROOM?32*'.
+Add net unconnected-(U1-IO16-Pad27).
+Connected U1 pin 27 to unconnected-(U1-IO16-Pad27).
+Add net unconnected-(U1-SCK/CLK-Pad20).
+Connected U1 pin 20 to unconnected-(U1-SCK/CLK-Pad20).
+Add net Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net Net-(U1-IO22).
+Connected U1 pin 36 to Net-(U1-IO22).
+Add net unconnected-(U1-IO32-Pad8).
+Connected U1 pin 8 to unconnected-(U1-IO32-Pad8).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 34 to /RX.
+Add net unconnected-(U1-IO35-Pad7).
+Connected U1 pin 7 to unconnected-(U1-IO35-Pad7).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 3 to Net-(U1-EN).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SWP/SD3-Pad18).
+Connected U1 pin 18 to unconnected-(U1-SWP/SD3-Pad18).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO12-Pad14).
+Connected U1 pin 14 to unconnected-(U1-IO12-Pad14).
+Add net unconnected-(U1-IO14-Pad13).
+Connected U1 pin 13 to unconnected-(U1-IO14-Pad13).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 15 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO34-Pad6).
+Connected U1 pin 6 to unconnected-(U1-IO34-Pad6).
+Add net Net-(U1-IO25).
+Connected U1 pin 10 to Net-(U1-IO25).
+Connected U1 pin 25 to Net-(U1-IO0).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO15-Pad23).
+Connected U1 pin 23 to unconnected-(U1-IO15-Pad23).
+Connected U1 pin 24 to Net-(U1-IO2).
+Add net unconnected-(U1-SENSOR_VN-Pad5).
+Connected U1 pin 5 to unconnected-(U1-SENSOR_VN-Pad5).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 35 to /TX.
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO13-Pad16).
+Connected U1 pin 16 to unconnected-(U1-IO13-Pad16).
+Add net unconnected-(U1-NC-Pad32).
+Connected U1 pin 32 to unconnected-(U1-NC-Pad32).
+Add net Net-(U1-IO19).
+Connected U1 pin 31 to Net-(U1-IO19).
+Add net Net-(U1-IO18).
+Connected U1 pin 30 to Net-(U1-IO18).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO27-Pad12).
+Connected U1 pin 12 to unconnected-(U1-IO27-Pad12).
+Connected U1 pin 1 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO17-Pad28).
+Connected U1 pin 28 to unconnected-(U1-IO17-Pad28).
+Add net Net-(U1-IO21).
+Connected U1 pin 33 to Net-(U1-IO21).
+Add net unconnected-(U1-SDO/SD0-Pad21).
+Connected U1 pin 21 to unconnected-(U1-SDO/SD0-Pad21).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Changed 10uf1 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to C_Polarized.
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SDI/SD1-Pad22).
+Connected U1 pin 22 to unconnected-(U1-SDI/SD1-Pad22).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net Net-(U1-IO26).
+Connected U1 pin 11 to Net-(U1-IO26).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SCS/CMD-Pad19).
+Connected U1 pin 19 to unconnected-(U1-SCS/CMD-Pad19).
+Add net unconnected-(U1-SHD/SD2-Pad17).
+Connected U1 pin 17 to unconnected-(U1-SHD/SD2-Pad17).
+Connected U1 pin 2 to GND.
+Add net unconnected-(U1-IO4-Pad26).
+Connected U1 pin 26 to unconnected-(U1-IO4-Pad26).
+Connected U1 pin 38 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SENSOR_VP-Pad4).
+Connected U1 pin 4 to unconnected-(U1-SENSOR_VP-Pad4).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net Net-(U1-IO5).
+Connected U1 pin 29 to Net-(U1-IO5).
+Connected U1 pin 37 to Net-(J3-Pin_1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO33-Pad9).
+Connected U1 pin 9 to unconnected-(U1-IO33-Pad9).
+Updated 10uf1 symbol association from  to /7d3eb2a6-f075-46bc-b94a-56d664524a1c.
+Added U2 (footprint 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm').
+Changed REF** reference designator to U2.
+Changed U2 value from SSOP-24_5.3x8.2mm_P0.65mm to TB6612FNG.
+Updated U2 symbol association from  to /1c67b453-c1cd-4177-af31-98229888a37e.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated U2 footprint filters to 'SSOP*5.3x8.2mm*P0.65mm*'.
+Connected U2 pin 19 to Net-(U1-IO5).
+Connected U2 pin 21 to Net-(U1-IO18).
+Connected U2 pin 15 to Net-(U1-IO26).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U2 pin 4 to Net-(U2-PGND1-Pad3).
+Connected U2 pin 1 to Net-(J5-Pin_1).
+Connected U2 pin 23 to Net-(U1-IO25).
+Connected U2 pin 3 to Net-(U2-PGND1-Pad3).
+Connected U2 pin 22 to Net-(U1-IO19).
+Add net Net-(U2-PGND2-Pad10).
+Connected U2 pin 9 to Net-(U2-PGND2-Pad10).
+Connected U2 pin 7 to Net-(J6-Pin_2).
+Add net unconnected-(U2-VM2-Pad13).
+Connected U2 pin 13 to unconnected-(U2-VM2-Pad13).
+Connected U2 pin 8 to Net-(J6-Pin_2).
+Connected U2 pin 6 to Net-(J5-Pin_2).
+Connected U2 pin 2 to Net-(J5-Pin_1).
+Connected U2 pin 20 to GND.
+Add net unconnected-(U2-VM3-Pad14).
+Connected U2 pin 14 to unconnected-(U2-VM3-Pad14).
+Connected U2 pin 12 to Net-(J6-Pin_1).
+Connected U2 pin 11 to Net-(J6-Pin_1).
+Connected U2 pin 16 to Net-(U1-IO22).
+Add net unconnected-(U2-VM1-Pad24).
+Connected U2 pin 24 to unconnected-(U2-VM1-Pad24).
+Connected U2 pin 10 to Net-(U2-PGND2-Pad10).
+Connected U2 pin 17 to Net-(U1-IO21).
+Connected U2 pin 18 to GND.
+Connected U2 pin 5 to Net-(J5-Pin_2).
+Updated 10uf1 fields.
+Added U3 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U3.
+Changed U3 value from SOT-223-3_TabPin2 to AMS1117.
+Updated U3 symbol association from  to /12ab6bb1-34b3-4abb-9b74-da0c0926cd4b.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'ESP32_Bot_PCB.kicad_sch'.
+Updated U3 footprint filters to 'SOT?223*TabPin2*'.
+Connected U3 pin 1 to GND.
+Connected U3 pin 2 to GND.
+Connected U3 pin 3 to Net-(U3-VI).
+Connected U3 pin 2 to GND.
+
+
+Add net Net-(U2-PGND1-Pad3).
+
+
+Info: Total warnings: 0, errors: 0.
