@@ -4,8 +4,8 @@
 // =====================================================
 //                   WIFI SETTINGS
 // =====================================================
-const char* ssid = "divya";
-const char* password = "divya123";
+const char* ssid = "Monika";
+const char* password = "12341234";
 
 // =====================================================
 //                 GLOBAL VARIABLES
